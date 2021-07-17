@@ -1,0 +1,22 @@
+div{
+	width: 1000px;
+	background-color:#7398c2;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+h1{
+	font-size: 100px;
+}
+span{
+	color: rgb(234, 234, 243);
+	margin: 0;
+}
+p{  
+	font-size: 16px;
+	padding: 50px;
+}
+img{
+	width: 400px;
+	padding: 150px 0;
+}
